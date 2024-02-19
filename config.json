@@ -1,0 +1,20 @@
+{
+    "token":"",
+
+    "embed": {
+        "title": "",
+        "description": "",
+        "image": "",
+        "color": ""
+    },
+
+    "button": {
+        "label": "",
+        "emoji": ""
+    },
+
+    "info": {
+        "roleId": "",
+        "channelId": ""
+    }
+}
