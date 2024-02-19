@@ -6,7 +6,7 @@
  - Discord.js v14 - npm i discord.js
  - Colors - npm i colors 
  
-### Cofigurações:
+### Configurações:
 
     {
 	    "token":"Token do bot",
